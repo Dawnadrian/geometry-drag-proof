@@ -1,0 +1,84 @@
+[
+  {
+    "img": "1.png",
+    "pairs": [
+      { "claim": "ab=bc", "reason": "נתון " },
+      { "claim": "ae= ½ ab ", "reason": " ec נתון תיכון" },
+      { "claim": " Dc = ½ bc", "reason": " ad נתון תיכון" },
+      { "claim": " dc= ae", "reason": "חיסור קטעים שווים " },
+      { "claim": "∢a = ∢c  ", "reason": "במשולש שווה שוקיים זוויות בסיס שוות " },
+      { "claim": "ac=ac ", "reason": " צלע משותפת" },
+      { "claim": " ▵adc= ▵cea", "reason": " לפי משפט חפיפה צלע זווית צלע" },
+      { "claim": "aec = ∢cda ", "reason": " זמב״ח" },
+      { "claim": " ∢bec = ∢bda", "reason": "זוויות משלימות שוות " }
+      
+    ]
+  },
+  {
+    "img": "2.png",
+    "pairs": [
+  { "claim": "ac=cd", "reason": "נתון ראשון" },
+  { "claim": "∢adb = ∢cdb", "reason": "נתון שני" },
+  { "claim": "bd=bd", "reason": "צלע משותפת" },
+  { "claim": "▵adb= ▵cdb", "reason": "לפי משפט חפיפה צ.ז.צ" },
+  { "claim": "bc=ba", "reason": "צמב״ח" },
+  { "claim": "Abc משולש שווה שוקיים", "reason": "משולש בו 2 צלעות שוות הוא משולש שווה שוקיים" },
+  { "claim": "∢abd = ∢cbd", "reason": "זמב״ח של משולשים חופפים" },
+  { "claim": "Bd חוצה זווית", "reason": "לפי הטענה הקודמת, הגדרה" },
+  { "claim": "Bd⊥ac", "reason": "במשולש שווה שוקיים חוצה הזווית הוא גם הגובה" }
+]
+
+  },
+  {
+    "img": "3.png",
+    "pairs": [
+  { "claim": "ba=bc", "reason": "נתון ראשון" },
+  { "claim": "ac⊥bd", "reason": "נתון שני" },
+  { "claim": "Bd גובה", "reason": "לפי הגדרת גובה" },
+  { "claim": "∢aod = ∢cod = 90", "reason": "לפי טענה 3" },
+  { "claim": "Bd תיכון", "reason": "במשולש שווה שוקיים הגובה הוא גם תיכון" },
+  { "claim": "ao=oc", "reason": "לפי טענה 4" },
+  { "claim": "Od גובה ותיכון", "reason": "לפי הגדרות של גובה ותיכון" },
+  { "claim": "▵adc משולש שווה שוקיים", "reason": "משולש בו הגובה הוא גם תיכון, הוא משולש שווה שוקיים" }
+]
+
+  },
+  {
+    "img": "4.png",
+    "pairs": [
+  { "claim": "Abc משולש שווה צלעות", "reason": "נתון ראשון" },
+  { "claim": "∢a=∢b=∢c=60", "reason": "במשולש שווה צלעות כל הזוויות שוות 60 מעלות" },
+  { "claim": "Bf,cd חוצי זווית", "reason": "נתון שני" },
+  { "claim": "∢ecf = 30", "reason": "חישוב ראשון" },
+  { "claim": "∢dbe=30", "reason": "חישוב שני" },
+  { "claim": "ab=bc=ac=x", "reason": "סימון" },
+  { "claim": "Bf,cd ,תיכונים", "reason": "במשולש שווה צלעות כל חוצי הזווית הם גם תיכונים" },
+  { "claim": "bd=cf=½ x", "reason": "חישוב שלישי" },
+  { "claim": "Bf,cd גבהים", "reason": "במשולש שווה צלעות כל חוצי הזווית הם גם גבהים" },
+  { "claim": "∢rfc=∢edb=90", "reason": "לפי טענה קודמת" },
+  { "claim": "▵cef= ▵bed", "reason": "לפי משפט חפיפה ז.צ.ז" }
+]
+
+  },
+  {
+    "img": "5.png",
+    "pairs": [
+  { "claim": "Abc משולש שווה צלעות", "reason": "נתון ראשון" },
+  { "claim": "Bf גובה", "reason": "נתון שני" },
+  { "claim": "∢afc = 90", "reason": "לפי טענה 2" },
+  { "claim": "Ad גובה", "reason": "נתון 3" },
+  { "claim": "∢bde = 90", "reason": "לפי טענה 4" },
+  { "claim": "ab=ac=bc=x", "reason": "סימון" },
+  { "claim": "Bf,ad תיכונים", "reason": "במשולש שווה צלעות התיכונים הם גבהים" },
+  { "claim": "bd=af=½ x", "reason": "חישוב ראשון" },
+  { "claim": "∢a=∢b=∢c=60", "reason": "במשולש שווה צלעות כל הזוויות שוות 60 מעלות" },
+  { "claim": "Bf,ad חוצי זווית", "reason": "במשולש שווה צלעות התיכונים הם חוצי זווית" },
+  { "claim": "∢fac =∢rbd=30", "reason": "חישוב שני" },
+  { "claim": "▵cef= ▵bed", "reason": "לפי משפט חפיפה ז.צ.ז" },
+  { "claim": "ae=be", "reason": "צמב״ח ראשון" },
+  { "claim": "ed=ef", "reason": "צמב״ח שני" }
+]
+
+  }
+
+]
